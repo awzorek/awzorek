@@ -8,4 +8,8 @@ Hej! 👋 Mam na imię Arkadiusz.
 
 [Moja strona GitHub Pages](https://awzorek.github.io/)
 
+## Papers with Code
+- [repozytorium](https://github.com/awzorek/MELD)
+- [artykuł](https://paperswithcode.com/paper/meld-a-multimodal-multi-party-dataset-for)
+
 Dzięki za odwiedzenie! 😄
